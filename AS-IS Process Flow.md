@@ -9,6 +9,9 @@ Loblaw’s current customer service process is highly manual, involving multiple
 
 This process is slow, prone to errors, and heavily reliant on manual effort, resulting in inefficiencies and delayed responses.
 
+<img width="1915" height="1709" alt="F24-Group 5-INFO8687-AS-IS Process Flow Visio" src="https://github.com/user-attachments/assets/03ff052e-3e7a-41c7-a658-aa170a3e0a45" />
+
+
 ### Impact of AI Chatbot Solution on the AS-IS Process Flow
 
 **Automated Inquiry Handling:**  
@@ -36,3 +39,8 @@ Resolved inquiries will be automatically closed in the CRM system, and feedback 
 - **Improved Response Times:** Delivers instant resolutions for routine queries, boosting customer satisfaction.  
 - **24/7 Availability:** Provides continuous support, ensuring inquiries are always addressed.  
 - **Accuracy and Reliability:** Ensures data consistency, reduces errors, and maintains comprehensive records.
+
+## References
+
+- Loblaw Companies Limited Official Website: [https://www.loblaw.ca](https://www.loblaw.ca)
+- Microsoft Visio: Used for creating AS-IS process flow diagrams.
