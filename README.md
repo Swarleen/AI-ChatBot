@@ -217,4 +217,4 @@ The evaluation criteria assess each solution based on performance, scalability, 
 The AI chatbot achieves the highest total score (189), demonstrating superior efficiency, reliability, and overall value compared to doing nothing or outsourcing customer service.  
 This highlights the AI chatbot as the most effective and scalable solution for improving Loblaw’s customer service operations.
 
-Click [HERE](evaluation_criteria.md) to check the detailed evaluation. 
+Click [HERE](Evaluation_Criteria.md) to check the detailed evaluation. 
