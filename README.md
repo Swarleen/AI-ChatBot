@@ -47,7 +47,7 @@ Applied three strategic tools to evaluate Loblaw’s competitive position:
 
 ### SWOT Analysis
 
-Check the complete SWOT Analysis insights [HERE](Competitive Analysis.md)
+Check the complete SWOT Analysis insights [HERE](Competitive_Analysis.md)
 
 <img width="300" height="300" alt="Screenshot 2025-09-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/93d0f67c-6b83-42ce-a3cf-77f7e2479cdc" />
 <img width="300" height="300" alt="SWOT Metro" src="https://github.com/user-attachments/assets/713639e8-9358-4368-9df0-e215fa73d488" />
@@ -58,7 +58,7 @@ Check the complete SWOT Analysis insights [HERE](Competitive Analysis.md)
 
 ### PESTEL Analysis
 
-Check the complete PESTEL Analysis insights [HERE](Competitive Analysis.md)
+Check the complete PESTEL Analysis insights [HERE](Competitive_Analysis.md)
 
 <img width="1500" height="400" alt="Screenshot 2025-09-18 at 12 33 06 PM" src="https://github.com/user-attachments/assets/2ec0a208-9f36-46aa-951b-795b5c1747b8" />
 <img width="1500" height="600" alt="Screenshot 2025-09-18 at 12 33 32 PM" src="https://github.com/user-attachments/assets/e8fe721d-6cea-4533-b88a-af3246a49995" />
@@ -68,7 +68,7 @@ Check the complete PESTEL Analysis insights [HERE](Competitive Analysis.md)
 
 ### Balanced Scorecard
 
-Check the complete Balanced Scorecard insights [HERE](Competitive Analysis.md)
+Check the complete Balanced Scorecard insights [HERE](Competitive_Analysis.md)
 
 <img width="300" height="300" alt="Screenshot 2025-09-18 at 12 38 14 PM" src="https://github.com/user-attachments/assets/f5856031-de66-4014-951e-1bdf39b72124" />
 <img width="300" height="300" alt="Screenshot 2025-09-18 at 12 38 26 PM" src="https://github.com/user-attachments/assets/d32b19f5-a82d-4208-ba76-07a05a4de5cb" />
@@ -217,4 +217,4 @@ The evaluation criteria assess each solution based on performance, scalability, 
 The AI chatbot achieves the highest total score (189), demonstrating superior efficiency, reliability, and overall value compared to doing nothing or outsourcing customer service.  
 This highlights the AI chatbot as the most effective and scalable solution for improving Loblaw’s customer service operations.
 
-Click [HERE](evaluation criteria.md) to check the detailed evaluation. 
+Click [HERE](evaluation_criteria.md) to check the detailed evaluation. 
