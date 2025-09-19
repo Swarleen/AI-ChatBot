@@ -39,7 +39,7 @@ The chatbot solution will be delivered through:
 **Market Competitors:** Sobeys, Metro, Walmart  
 
 ### 🔎 Analysis Methods
-We applied three strategic tools to evaluate Loblaw’s competitive position:
+Applied three strategic tools to evaluate Loblaw’s competitive position:
 
 1. **SWOT Analysis** – Strengths, Weaknesses, Opportunities, Threats  
 2. **PESTEL Analysis** – Political, Economic, Social, Technological, Environmental, Legal factors  
@@ -47,56 +47,33 @@ We applied three strategic tools to evaluate Loblaw’s competitive position:
 
 ### SWOT Analysis
 
-<img width="500" height="500" alt="Screenshot 2025-09-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/93d0f67c-6b83-42ce-a3cf-77f7e2479cdc" />
-<img width="500" height="500" alt="SWOT Metro" src="https://github.com/user-attachments/assets/713639e8-9358-4368-9df0-e215fa73d488" />
-<img width="500" height="500" alt="SWOT Sobeys" src="https://github.com/user-attachments/assets/c786fbcc-c1fe-4a02-a27b-001b78ae6f81" />
-<img width="500" height="500" alt="SWOT Walmart" src="https://github.com/user-attachments/assets/334d1085-8def-4042-9bd5-8c2274ecfae1" />
+Check the complete SWOT Analysis insights [HERE](Competitive Analysis.md)
 
-### SWOT Analysis Outcomes
-
-| Aspect       | Loblaw | Sobeys | Metro | Walmart |
-|--------------|--------|--------|-------|---------|
-| **Strengths** | Market leader; strong brands; sustainability focus | National presence; backed by Empire Co.; green initiatives | Quebec & Ontario dominance; diverse offerings | Global scale; low-cost leader; strong e-commerce |
-| **Weaknesses** | Canada-only; price-fixing scandals | Higher prices; no global reach | Higher prices; Canada-reliant | Overdependent on U.S.; thin margins; labor issues |
-| **Opportunities** | E-commerce growth; AI chatbots; health & wellness | Ocado partnership; private label growth | Expand e-commerce; possible global entry | Healthcare expansion; eco-products |
-| **Threats** | Competition; supply chain risks; regulations | Regulatory risks; rivalry with Loblaw & Walmart | Economic downturns; changing preferences | Regulatory scrutiny; unions; downturn risks |
+<img width="300" height="300" alt="Screenshot 2025-09-18 at 12 26 24 PM" src="https://github.com/user-attachments/assets/93d0f67c-6b83-42ce-a3cf-77f7e2479cdc" />
+<img width="300" height="300" alt="SWOT Metro" src="https://github.com/user-attachments/assets/713639e8-9358-4368-9df0-e215fa73d488" />
+<img width="300" height="300" alt="SWOT Sobeys" src="https://github.com/user-attachments/assets/c786fbcc-c1fe-4a02-a27b-001b78ae6f81" />
+<img width="300" height="300" alt="SWOT Walmart" src="https://github.com/user-attachments/assets/334d1085-8def-4042-9bd5-8c2274ecfae1" />
 
 ---
 
 ### PESTEL Analysis
 
-<img width="1760" height="589" alt="Screenshot 2025-09-18 at 12 33 06 PM" src="https://github.com/user-attachments/assets/2ec0a208-9f36-46aa-951b-795b5c1747b8" />
-<img width="1445" height="751" alt="Screenshot 2025-09-18 at 12 33 32 PM" src="https://github.com/user-attachments/assets/e8fe721d-6cea-4533-b88a-af3246a49995" />
-<img width="1762" height="549" alt="Screenshot 2025-09-18 at 12 34 03 PM" src="https://github.com/user-attachments/assets/197a0a69-0c64-4fa0-a39b-8925e5caf623" />
+Check the complete PESTEL Analysis insights [HERE](Competitive Analysis.md)
 
-### PESTEL Analysis Summary
-
-| Factor       | Loblaw | Sobeys | Metro | Walmart |
-|--------------|--------|--------|-------|---------|
-| **Political** | Canadian regulations (food safety, environment) | Same as Loblaw | Canada-only exposure; limited diversification | Global regulations, tariffs, taxes |
-| **Economic** | Canada-only; economy impacts sales | Canadian market; backed by parent | Limited global exposure; economic risk | U.S. revenue dependence; economic fluctuations |
-| **Social** | Health & wellness focus; loyalty programs | Community engagement; sustainability | Eco-conscious consumers; regional appeal | Broad appeal; labor controversies |
-| **Technological** | E-commerce & supply chain investments | Ocado e-commerce partnership; digital focus | Automation & supply chain efficiency | Leading in digital transformation & online shopping |
-| **Environmental** | Sustainability leader; reduce emissions & waste | Natural refrigeration; eco focus | Sustainable sourcing; food waste reduction | Strong sustainability & eco-products focus |
-| **Legal** | Legal controversies; price-fixing impact | Regulatory compliance & supply chain risks | Supplier reliance; Canadian compliance | Labor & supplier scrutiny globally |
+<img width="1500" height="400" alt="Screenshot 2025-09-18 at 12 33 06 PM" src="https://github.com/user-attachments/assets/2ec0a208-9f36-46aa-951b-795b5c1747b8" />
+<img width="1500" height="600" alt="Screenshot 2025-09-18 at 12 33 32 PM" src="https://github.com/user-attachments/assets/e8fe721d-6cea-4533-b88a-af3246a49995" />
+<img width="1500" height="400" alt="Screenshot 2025-09-18 at 12 34 03 PM" src="https://github.com/user-attachments/assets/197a0a69-0c64-4fa0-a39b-8925e5caf623" />
 
 ---
 
 ### Balanced Scorecard
 
-<img width="500" height="500" alt="Screenshot 2025-09-18 at 12 38 14 PM" src="https://github.com/user-attachments/assets/f5856031-de66-4014-951e-1bdf39b72124" />
-<img width="500" height="500" alt="Screenshot 2025-09-18 at 12 38 26 PM" src="https://github.com/user-attachments/assets/d32b19f5-a82d-4208-ba76-07a05a4de5cb" />
-<img width="500" height="500" alt="Screenshot 2025-09-18 at 12 38 45 PM" src="https://github.com/user-attachments/assets/11cf18c4-bae6-44f1-8738-53fb7aa64d31" />
-<img width="500" height="500" alt="Screenshot 2025-09-18 at 12 39 00 PM" src="https://github.com/user-attachments/assets/0e4b0a01-3006-4cbb-9b08-9f24e18ff8be" />
+Check the complete Balanced Scorecard insights [HERE](Competitive Analysis.md)
 
-### Balanced Scorecard Summary
-
-| Perspective       | Loblaw | Sobeys | Metro | Walmart |
-|------------------|--------|--------|-------|---------|
-| **Financial**     | Revenue CAD 13.95B (Q2 2024); ROE 19.22% | Revenue growth via e-commerce; rising costs | Strong private label & e-commerce revenue; cost challenges | Global leader; consistent growth; thin margins |
-| **Customer**      | High loyalty via PC Optimum; diverse store formats | Community engagement; pricing perception hurts loyalty | Community-driven; pricing issues need addressing | Low prices & convenience; inconsistent service |
-| **Internal Processes** | Sustainability leadership; tech-optimized supply chain | Enhanced logistics via partnerships (Ocado) | Efficient ops through automation & supply chain tech | Strong global supply chain; inconsistent customer service |
-| **Learning & Growth** | Innovation & CSR (food donations, carbon reduction) | Employee training & green initiatives | Employee development; sustainability focus | Extensive training; union relationship challenges |
+<img width="300" height="300" alt="Screenshot 2025-09-18 at 12 38 14 PM" src="https://github.com/user-attachments/assets/f5856031-de66-4014-951e-1bdf39b72124" />
+<img width="300" height="300" alt="Screenshot 2025-09-18 at 12 38 26 PM" src="https://github.com/user-attachments/assets/d32b19f5-a82d-4208-ba76-07a05a4de5cb" />
+<img width="300" height="300" alt="Screenshot 2025-09-18 at 12 38 45 PM" src="https://github.com/user-attachments/assets/11cf18c4-bae6-44f1-8738-53fb7aa64d31" />
+<img width="300" height="300" alt="Screenshot 2025-09-18 at 12 39 00 PM" src="https://github.com/user-attachments/assets/0e4b0a01-3006-4cbb-9b08-9f24e18ff8be" />
 
 ---
 
@@ -107,7 +84,7 @@ We applied three strategic tools to evaluate Loblaw’s competitive position:
 - **Order Tracking** → Fragmented process, delays & dissatisfaction  
 - **Impact** → 15% unresolved tickets, 10% cart abandonment, 20% below benchmarks, ~$5M annual loss  
 ---
-### 🚀 Project Selected – AI Chatbot Solution  
+### Project Selected – AI Chatbot Solution  
 
 **Why?**  
 - 24/7 support → reduce response times (<5 mins)  
@@ -130,7 +107,7 @@ We applied three strategic tools to evaluate Loblaw’s competitive position:
 - Marketing & promotions  
 - Non-ecommerce custom solutions  
 
-**✨ Key Features**  
+**Key Features**  
 - 24/7 availability  
 - Multilingual support  
 - Real-time responses  
@@ -138,13 +115,13 @@ We applied three strategic tools to evaluate Loblaw’s competitive position:
 - Product comparisons  
 - Strong data security  
 
-**📌 Project Conditions**  
+**Project Conditions**  
 - **Constraints**: Strict budget, Dec 13, 2024 deadline, seamless integration, full privacy compliance  
 - **Assumptions**: Timely stakeholder feedback, available technical resources, customer adoption  
 
 ---
 
-## 7. Business Requirements
+## Business Requirements
 
 To ensure the success of the AI Chatbot, the following requirements are defined:
 
@@ -177,32 +154,67 @@ To ensure the success of the AI Chatbot, the following requirements are defined:
 
 ---
 
-## 8. AS-IS Process Flow
+## AS-IS Process Flow
 
-- Customer inquiries via email, phone, website  
-- Manual logging, categorization, and resolution by agents  
-- Escalation and tracking in CRM  
-- Manual closure and feedback collection  
+Loblaw's current customer service process is manual, involving logging, categorization, resolution, and feedback collection, which leads to delays and inefficiencies.
+Read detailed steps and outcomes from the process flow [here](AS-IS_Process_Flow.md)
+<img width="700" height="700" alt="F24-Group 5-INFO8687-AS-IS Process Flow Visio" src="https://github.com/user-attachments/assets/0955d0c4-c4b9-4850-ae4c-14b7a22cabb9" />
 
-**Issues:** Slow, error-prone, inefficient
-<img width="800" height="800" alt="F24-Group 5-INFO8687-AS-IS Process Flow Visio" src="https://github.com/user-attachments/assets/5649a481-7c09-4176-b8ac-6f947e2cd1ac" />
+---
 
-## Impact of AI Chatbot on AS-IS Process
+## Solution Requirements
 
-- **Automated Inquiry Handling:** Chatbot logs inquiries directly into CRM  
-- **Efficient Categorization:** Automatic sorting and customer history retrieval  
-- **Instant Data Access:** Real-time order and account info for quick responses  
-- **Automated Escalations:** Unresolved queries escalated with detailed logs  
-- **Streamlined Documentation:** Tracks issues, compensation, and feedback  
-- **Faster Closure & Feedback:** Resolved inquiries closed automatically  
+All project requirements for the AI Chatbot, including **Functional** and **Non-Functional Requirements**, are documented in full detail [here](solution_requirements.md)
 
-**Key Benefits:**  
-- Seamless CRM integration  
-- Enhanced efficiency; agents focus on complex issues  
-- Faster response times; instant resolutions  
-- 24/7 support availability  
-- Accurate, reliable, and consistent records  
+## To-Be State
 
+The To-Be State represents the future vision of our processes after improvements. It focuses on streamlined workflows, enhanced efficiency, and better user experience. This state guides the implementation of solutions to achieve optimal performance.
 
-tic view** of Loblaw’s market standing, helping align business strategy with **competitive pressures and growth opportunities**.
+<img width="600" height="600" alt="Screenshot 2025-09-18 at 8 43 45 PM" src="https://github.com/user-attachments/assets/43d12f34-c1bb-4118-88a3-50b5176baaca" />
 
+---
+
+## Solution Requirements
+
+### Solution Options
+
+| Solution                  | Description |
+|----------------------------|-------------|
+| **Do Nothing**             | Retains the current manual customer service process. No changes are made to systems or workflows. |
+| **Custom In-House Development** | Builds the AI chatbot internally using Loblaw’s team and infrastructure, tailored specifically to the company’s needs. |
+| **Outsourcing**            | Partners with a vendor or freelancers to develop, deploy, and maintain the AI chatbot, leveraging external expertise. |
+
+### Comparison of Benefits, Key Components, Risks, and Improvements
+
+| Solution                  | Benefits | Key Components | Risks | Improvements (if selected) |
+|----------------------------|---------|----------------|-------|----------------------------|
+| **Do Nothing**             | No upfront investment required. Maintains existing workflows. | None | Continued inefficiencies and delays. | Increased customer dissatisfaction and unresolved tickets. |
+| **Custom In-House Development** | Tailored to Loblaw’s needs. Full control over features and data. Long-term cost savings. | In-house AI frameworks (TensorFlow, SpaCy), Integration with Loblaw’s CRM and e-commerce systems, Custom-built databases and servers | High upfront costs and resource allocation. Long development time (~8 months). Maintenance requires dedicated resources. | Faster response times, real-time order tracking, scalable and fully customizable AI chatbot functionality. |
+| **Outsourcing**            | Faster implementation. Access to specialized expertise. Lower internal resource demand. Scalable, cost-effective solution. | Vendor-provided AI solutions (Google Cloud, Salesforce), Cloud-based infrastructure, Real-time analytics and monitoring tools | Dependency on vendors. Potential communication challenges. Long-term reliance on external parties. | Immediate improvements in response times and efficiency. Reduced manual workload. Automated reporting and feedback collection. |
+
+---
+
+## Return on Investment (ROI)
+
+| Solution                  | Initial Investment (CAD) | Annual Maintenance Cost (CAD) | Annual Benefits (Savings + Revenue Increase) (CAD) | Total Costs (5 years) (CAD) | Total Benefits (5 years) (CAD) | ROI (%) |
+|----------------------------|-------------------------|-------------------------------|--------------------------------------------------|-----------------------------|-------------------------------|---------|
+| **Do Nothing**             | 0                       | 100,000                       | 0                                                | 500,000                     | 0                             | -100    |
+| **AI Chatbot Implementation** | 500,000                 | 50,000                        | 300,000                                          | 750,000                     | 1,500,000                     | 100     |
+| **Outsource Customer Services** | 300,000                 | 100,000                       | 200,000                                          | 800,000                     | 1,000,000                     | 25      |
+
+### Key Insights
+- **Do Nothing** leads to ongoing costs without any tangible benefits, resulting in a negative ROI.  
+- **Implementing AI Chatbot** yields the highest ROI (100%), demonstrating clear financial benefits and operational improvements.  
+- **Outsourcing** provides moderate ROI (25%) but incurs dependency on vendors and slightly higher costs compared to the chatbot implementation.  
+
+**Conclusion:** Implementing an AI chatbot provides the highest ROI (100%), making it the most financially beneficial solution for Loblaw.
+
+---
+
+## Evaluation Criteria
+
+The evaluation criteria assess each solution based on performance, scalability, security, maintainability, usability, ROI, and key customer service functionalities.
+The AI chatbot achieves the highest total score (189), demonstrating superior efficiency, reliability, and overall value compared to doing nothing or outsourcing customer service.  
+This highlights the AI chatbot as the most effective and scalable solution for improving Loblaw’s customer service operations.
+
+Click [HERE](evaluation criteria.md) to check the detailed evaluation. 
