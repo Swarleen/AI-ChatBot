@@ -1,6 +1,44 @@
-# AI-ChatBot
-Welcome to the project repository for our **Business Analysis Report on AI Chatbot Implementation**.  
-This report explores competitive analysis, business requirements, solution design, and implementation strategy.
+## 🛠 Skills & Tools Used
+
+### AI & Chatbot
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SpaCy](https://img.shields.io/badge/SpaCy-FF0000?style=for-the-badge&logo=spaCy&logoColor=white)](https://spacy.io/)
+[![Chatbot.ai](https://img.shields.io/badge/Chatbot.ai-4CAF50?style=for-the-badge&logo=ai&logoColor=white)](https://www.chatbot.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
+
+### Data & Analytics
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Database](https://img.shields.io/badge/Database-0052CC?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### Design & Documentation
+[![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)
+[![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/word)
+[![Visio](https://img.shields.io/badge/Microsoft_Visio-3953A4?style=for-the-badge&logo=microsoft-visio&logoColor=white)](https://www.microsoft.com/visio)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6C37?style=for-the-badge&logo=lucidchart&logoColor=white)](https://www.lucidchart.com/)
+
+### Business Analysis & Strategy
+[![SWOT Analysis](https://img.shields.io/badge/SWOT_Analysis-008080?style=for-the-badge)]()
+[![PESTEL Analysis](https://img.shields.io/badge/PESTEL_Analysis-800080?style=for-the-badge)]()
+[![Balanced Scorecard](https://img.shields.io/badge/Balanced_Scorecard-FF69B4?style=for-the-badge)]()
+[![Impact Analysis](https://img.shields.io/badge/Impact_Analysis-FF5733?style=for-the-badge)]()
+[![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-900C3F?style=for-the-badge)]()
+[![Requirement Gathering](https://img.shields.io/badge/Requirement_Gathering-FFC300?style=for-the-badge)]()
+[![Business Process Modeling](https://img.shields.io/badge/BPMN-0052CC?style=for-the-badge)]()
+[![Process Optimization](https://img.shields.io/badge/Process_Optimization-00CED1?style=for-the-badge)]()
+[![ROI Analysis](https://img.shields.io/badge/ROI_Analysis-228B22?style=for-the-badge)]()
+[![Evaluation Metrics](https://img.shields.io/badge/Evaluation_Metrics-FF8C00?style=for-the-badge)]()
+
+
+# 🤖 AI-Powered Customer Service Chatbot for Loblaw  
+
+Welcome to the future of grocery shopping! This project showcases an **AI-driven chatbot** designed to transform Loblaw’s customer service experience — making responses faster, smarter, and more personalized.  
+
+Built with a fusion of **AI, data analysis, process optimization, and dashboard visualization**, this project highlights expertise in **business analysis, solution design, ROI evaluation, and end-to-end implementation planning**.  
+
+Dive in to explore **competitive analysis, process flows, database design, and evaluation metrics** that demonstrate the full lifecycle of delivering a scalable, intelligent, and impactful AI solution.
+
 
 ## Executive Summary
 
